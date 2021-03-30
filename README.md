@@ -9,4 +9,4 @@ Represents in-line comments: # can be ignored.
 
 Discalimer : Any direct adaptation of the file or the dataset will be given a direct zero marks.
 
-Contact: Joshua Peter, jppolaprayil1996@gmail.com@gmail.com
+Contact: Joshua Peter, jppolaprayil1996@gmail.com
