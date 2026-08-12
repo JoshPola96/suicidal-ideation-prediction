@@ -1,5 +1,7 @@
 # Suicidal Ideation Prediction
 
+> **Scope** · MSc coursework (Machine Learning) — published as-is.
+
 Curriculum Work / Machine Learning
 
 ## Overview
