@@ -5,12 +5,11 @@
 > [!NOTE]
 > **Built 2021. The ecosystem has moved since.**
 > Dependencies here are unpinned, so a clean `pip install` today resolves to
-> versions that did not exist when this was written and Theano/Lasagne is no longer maintained at all, while TensorFlow, Keras and scikit-learn have each had major releases. Expect install or
+> versions that did not exist when this was written and pandas 3.x, numpy 2.x and scikit-learn have all shipped breaking changes since. Expect install or
 > runtime breakage on a fresh environment. What is on offer is the engineering
 > approach and the decisions behind it, not a guaranteed-green build.
 > Happy to bring it current if that would be useful — just ask.
 
-Curriculum Work / Machine Learning
 
 ## Overview
 
